@@ -1,0 +1,19 @@
+.component__item {
+    display: flex;
+    width: 100%;
+    font-size: 1.25rem;
+}
+
+.component__item button {
+    height: 37px;
+    width: 37px;
+    margin: 0;
+}
+
+.add__panel {
+    height: 37px;
+    width: auto;
+    flex-grow: 1;
+    margin-right: 3px;
+    border-color: #17a2b8;
+}

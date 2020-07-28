@@ -1,0 +1,15 @@
+.header__content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header__text {
+    flex-grow: 1;
+}
+
+.header__counters {
+    width: 42%;
+    font-size: 1.05rem;
+    align-self: flex-end;
+    color: grey;
+}
